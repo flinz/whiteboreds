@@ -1,0 +1,9 @@
+{
+  "name": "WhiteBoreds Server",
+  "description": "Data server for WhiteBoreds game.",
+  "logo": "",
+  "image": "heroku/python",
+  "repository": "https://github.com/flinz/whiteboreds-api",
+  "keywords": ["python", "django" ],
+  "addons": [ "heroku-postgresql" ]
+}
